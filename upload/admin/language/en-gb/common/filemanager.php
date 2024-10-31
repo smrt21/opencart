@@ -21,3 +21,11 @@ $_['error_filesize']   = 'Warning: Incorrect file size!';
 $_['error_file_type']  = 'Warning: Incorrect file type!';
 $_['error_upload']     = 'Warning: File could not be uploaded for an unknown reason!';
 $_['error_delete']     = 'Warning: You cannot delete this directory!';
+
+$_['error_upload_1']   = 'The uploaded file exceeds the upload_max_filesize directive in php.ini';
+$_['error_upload_2']   = 'The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form';
+$_['error_upload_3']   = 'The uploaded file was only partially uploaded';
+$_['error_upload_4']   = 'No file was uploaded';
+$_['error_upload_6']   = 'Missing a temporary folder';
+$_['error_upload_7']   = 'Failed to write file to disk.';
+$_['error_upload_8']   = 'A PHP extension stopped the file upload.';
